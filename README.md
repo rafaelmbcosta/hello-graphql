@@ -1,0 +1,1 @@
+Learning and playing around with GraphQl and Node
